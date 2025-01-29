@@ -1,4 +1,7 @@
 # CyberGroupPhoto
+
+Language: [English](/README.md) | [中文](/docs/README-zh.md)
+
 ## 他能做什么？
 提供Minecraft玩家名单的情况下，他能自动获取玩家当前的皮肤并生成一张如下图的合照。
 ![](/docs/imgs/example1.png)

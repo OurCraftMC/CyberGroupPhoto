@@ -1,4 +1,7 @@
 # CyberGroupPhoto
+
+Language: [English](/README.md) | [中文](/docs/README-zh.md)
+
 ## What can it do?
 Given a list of Minecraft players, it can automatically retrieve their current skins and generate a group photo like the one shown below.
 ![](/docs/imgs/example1.png)
